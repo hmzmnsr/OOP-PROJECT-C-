@@ -1,5 +1,5 @@
 # OOP-PROJECT-C-
-Vending Machine creating using by all pillars of OOP in C++
+Vending Machine created using by all pillars of OOP in C++
 .
 .
 .
